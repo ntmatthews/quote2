@@ -1,0 +1,5 @@
+# .gitignore
+# Tempo files
+node_modules/
+**/tempobook/dynamic/
+**/tempobook/storyboards/
